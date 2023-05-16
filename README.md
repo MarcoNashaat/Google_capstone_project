@@ -16,5 +16,8 @@ In this notebook, the cleaned and processed data from the previous notebook is a
 ## Share-Act
 In this final notebook, the insights gained from the previous notebook are shared and acted upon. Recommendations are made based on the analysis and conclusions drawn from the data.
 
+## Slide Show Presentation
+In addition to the analysis conducted in the Jupyter notebooks, a slide show presentation has been provided to visually communicate the key findings of the project. The presentation includes charts and graphs created from the data visualization process in the Analyze notebook. The slides provide a summary of the insights gained from the data analysis and recommendations for Cyclistic bike-share company.
+
 ## Conclusion
-The Google Capstone Project allowed us to apply the skills and knowledge gained throughout the Data Analysis Specialization to a real-world dataset. Through the use of Jupyter notebooks and Python, we were able to successfully complete the data analysis process and gain valuable insights into the Cyclistic bike-share company data for 2019.
+The Google Capstone Project allowed me to apply the skills and knowledge gained throughout the Data Analysis Specialization to a real-world dataset. Through the use of Jupyter notebooks and Python, I was able to successfully complete the data analysis process and gain valuable insights into the Cyclistic bike-share company data for 2019. The slide show presentation provides an effective way to share these insights with stakeholders and decision makers at the company.
